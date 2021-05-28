@@ -1,0 +1,17 @@
+{
+  "name": "firstnodetask",
+  "version": "1.0.0",
+  "description": "read folder",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "kowshik",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
