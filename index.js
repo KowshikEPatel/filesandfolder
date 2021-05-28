@@ -17,7 +17,7 @@ app.get("/",(req,res)=>{
             
             if(file.includes('.')) {
                 console.log('file '+file)
-                finalString+=`<br><label for=""></label><img src="https://img.icons8.com/bubbles/50/000000/file.png"/>${file}</label>`
+                finalString+=`<br><label for=""><img src="https://img.icons8.com/bubbles/50/000000/file.png"/>${file}</label>`
                 
             }
             else{
